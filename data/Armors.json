@@ -8,6 +8,6 @@ null,
 {"id":6,"atypeId":0,"description":"Very Suitable, Not Very Magical Though...","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Farmer Cloths","note":"","params":[2,-3,3,2,-3,-3,3,1],"price":300},
 {"id":7,"atypeId":0,"description":"Its Cute On Bambi, Not Very Good For Defense Tho","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Red Skirt","note":"","params":[-2,0,-5,-5,0,0,10,20],"price":300},
 {"id":8,"atypeId":0,"description":"It Looks VERY CUTE On Bambi, Stolen","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Green Hat","note":"","params":[0,0,0,0,0,0,0,5],"price":400},
-{"id":9,"atypeId":0,"description":"Its Fine... I Guess...","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"3D Green Hat","note":"","params":[5,0,5,5,0,0,5,-5],"price":0},
+{"id":9,"atypeId":0,"description":"Its Fine... I Guess...","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"3D Green Hat","note":"","params":[5,0,5,10,0,0,5,-5],"price":500},
 {"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
