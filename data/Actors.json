@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"OB0rLBf","characterIndex":0,"characterName":"newsf","classId":5,"equips":[0,0,0,5,0],"faceIndex":0,"faceName":"The_Cooler_Dave","traits":[],"initialLevel":1,"maxLevel":99,"name":"Green Dave","nickname":"","note":"","profile":"Foe To Furrys"},
-{"id":2,"battlerName":"OH LORD THEY ARE COMIN","characterIndex":0,"characterName":"hello tempter two","classId":6,"equips":[0,0,2,5,0],"faceIndex":0,"faceName":"fuckin real now","traits":[],"initialLevel":1,"maxLevel":99,"name":"Disruption","nickname":"","note":"","profile":"pfft, he almost killed you"},
+{"id":2,"battlerName":"OH LORD THEY ARE COMIN","characterIndex":0,"characterName":"hello tempter two","classId":6,"equips":[0,0,9,6,0],"faceIndex":0,"faceName":"fuckin real now","traits":[],"initialLevel":1,"maxLevel":99,"name":"Disruption","nickname":"","note":"","profile":"pfft, he almost killed you"},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
